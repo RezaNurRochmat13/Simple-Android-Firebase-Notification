@@ -1,0 +1,242 @@
+-- Merging decision tree log ---
+manifest
+ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:2:1-39:12
+	package
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:3:5-60
+		INJECTED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml
+uses-permission#android.permission.INTERNET
+ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:5:5-66
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\046bcd1e3da87dbe90c60857a2e9216991f51468\output\AndroidManifest.xml:21:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:21:5-67
+	android:name
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:5:22-64
+uses-permission#android.permission.VIBRATE
+ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:6:5-65
+	android:name
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:6:22-63
+application
+ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:8:5-37:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b8a9247b770cc456bd764f0bf3a5dceb01ae9024\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\893cb8dd8b375b85259a40e56bae78f2d38590db\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\3be6695c41f6f1cb505b29b0f5ef0092cead8d24\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Reza Nur Rochmat\.android\build-cache\b11411e13f9474708280e12a178440d448a6bb71\output\AndroidManifest.xml:9:5-20
+MERGED from [com.google.firebase:firebase-messaging:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\09662825abe5147360cd36ca2ed8279777e52fa1\output\AndroidManifest.xml:20:5-32:19
+MERGED from [com.google.firebase:firebase-core:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\68cfb32100cdec243b6487bac4f00d4e44d12db0\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\046bcd1e3da87dbe90c60857a2e9216991f51468\output\AndroidManifest.xml:26:5-41:19
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:30:5-59:19
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\fb42a6018275cbed786aff60385b94631b370238\output\AndroidManifest.xml:5:5-12:19
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\0ccca17f179582188dca19d9c81499e59a6d888a\output\AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\20300748b53dd900c1ef4cb8bfff7578f6db5ea7\output\AndroidManifest.xml:20:5-24:19
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\84e98bd677d5ba1f175906a1e5bce8a8f60390ce\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\c31cb3a4c9c6e777c97a19070e3470a28fdd3aa6\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\fbc1e46a39b2bad54c84360515f8e7ce4272fbd5\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\4a68705a90d75aa9bcf1c28102c662c428a30c75\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\6a4ac61e0389e1f43138b82627b04bd1c27c00dd\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\c960dc0306a40d3e00952defb8b24f97d5704b3e\output\AndroidManifest.xml:29:5-20
+	android:label
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:11:9-41
+	android:supportsRtl
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:13:9-35
+	android:roundIcon
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:12:9-54
+	android:allowBackup
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:9:9-35
+	android:icon
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:10:9-43
+	android:theme
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:14:9-40
+activity#com.example.rezanurrochmat.simplenotification.MainActivity
+ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:15:9-21:20
+	android:name
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:15:19-47
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:16:13-20:29
+action#android.intent.action.MAIN
+ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:17:17-69
+	android:name
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:17:25-66
+category#android.intent.category.LAUNCHER
+ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:19:17-77
+	android:name
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:19:27-74
+activity#com.example.rezanurrochmat.simplenotification.ResultActivity
+ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:22:9-51
+	android:name
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:22:19-49
+service#com.example.rezanurrochmat.simplenotification.MyAndroidFirebaseMsgService
+ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:23:9-29:19
+	android:name
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:25:13-56
+intent-filter#com.google.firebase.MESSAGING_EVENT
+ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:26:13-28:29
+action#com.google.firebase.MESSAGING_EVENT
+ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:27:17-77
+	android:name
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:27:25-75
+service#com.example.rezanurrochmat.simplenotification.MyAndroidFirebaseInstanceIdService
+ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:30:9-36:19
+	android:name
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:32:13-63
+intent-filter#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:33:13-35:29
+action#com.google.firebase.INSTANCE_ID_EVENT
+ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:34:17-79
+	android:name
+		ADDED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml:34:25-77
+uses-sdk
+INJECTED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b8a9247b770cc456bd764f0bf3a5dceb01ae9024\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\893cb8dd8b375b85259a40e56bae78f2d38590db\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\3be6695c41f6f1cb505b29b0f5ef0092cead8d24\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\Reza Nur Rochmat\.android\build-cache\b11411e13f9474708280e12a178440d448a6bb71\output\AndroidManifest.xml:5:5-7:41
+MERGED from [com.google.firebase:firebase-messaging:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\09662825abe5147360cd36ca2ed8279777e52fa1\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-core:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\68cfb32100cdec243b6487bac4f00d4e44d12db0\output\AndroidManifest.xml:4:5-42
+MERGED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\046bcd1e3da87dbe90c60857a2e9216991f51468\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:18:5-42
+MERGED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\fb42a6018275cbed786aff60385b94631b370238\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\0ccca17f179582188dca19d9c81499e59a6d888a\output\AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\20300748b53dd900c1ef4cb8bfff7578f6db5ea7\output\AndroidManifest.xml:18:5-42
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\84e98bd677d5ba1f175906a1e5bce8a8f60390ce\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\c31cb3a4c9c6e777c97a19070e3470a28fdd3aa6\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\fbc1e46a39b2bad54c84360515f8e7ce4272fbd5\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\4a68705a90d75aa9bcf1c28102c662c428a30c75\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\6a4ac61e0389e1f43138b82627b04bd1c27c00dd\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\c960dc0306a40d3e00952defb8b24f97d5704b3e\output\AndroidManifest.xml:21:5-23:58
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b8a9247b770cc456bd764f0bf3a5dceb01ae9024\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml
+		INJECTED from G:\Work\SimpleNotification\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b8a9247b770cc456bd764f0bf3a5dceb01ae9024\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\893cb8dd8b375b85259a40e56bae78f2d38590db\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\3be6695c41f6f1cb505b29b0f5ef0092cead8d24\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\84e98bd677d5ba1f175906a1e5bce8a8f60390ce\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\c31cb3a4c9c6e777c97a19070e3470a28fdd3aa6\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\fbc1e46a39b2bad54c84360515f8e7ce4272fbd5\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\4a68705a90d75aa9bcf1c28102c662c428a30c75\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\6a4ac61e0389e1f43138b82627b04bd1c27c00dd\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\c960dc0306a40d3e00952defb8b24f97d5704b3e\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b8a9247b770cc456bd764f0bf3a5dceb01ae9024\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b8a9247b770cc456bd764f0bf3a5dceb01ae9024\output\AndroidManifest.xml:26:9-47
+service#com.google.firebase.messaging.FirebaseMessagingService
+ADDED from [com.google.firebase:firebase-messaging:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\09662825abe5147360cd36ca2ed8279777e52fa1\output\AndroidManifest.xml:24:9-30:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-messaging:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\09662825abe5147360cd36ca2ed8279777e52fa1\output\AndroidManifest.xml:26:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-messaging:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\09662825abe5147360cd36ca2ed8279777e52fa1\output\AndroidManifest.xml:25:13-82
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\046bcd1e3da87dbe90c60857a2e9216991f51468\output\AndroidManifest.xml:22:5-79
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:20:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:22:22-76
+uses-permission#android.permission.WAKE_LOCK
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\046bcd1e3da87dbe90c60857a2e9216991f51468\output\AndroidManifest.xml:24:5-67
+MERGED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:22:5-68
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:24:22-65
+receiver#com.google.android.gms.measurement.AppMeasurementReceiver
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:28:7-34:18
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\046bcd1e3da87dbe90c60857a2e9216991f51468\output\AndroidManifest.xml:28:7-34:18
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:30:11-33
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:29:11-83
+intent-filter#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:31:9-33:25
+action#com.google.android.gms.measurement.UPLOAD
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:32:11-77
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:32:19-75
+service#com.google.android.gms.measurement.AppMeasurementService
+ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:36:7-39:37
+MERGED from [com.google.firebase:firebase-analytics-impl:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\046bcd1e3da87dbe90c60857a2e9216991f51468\output\AndroidManifest.xml:36:7-39:37
+	android:enabled
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:38:11-33
+	android:exported
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:39:11-35
+	android:name
+		ADDED from [com.google.firebase:firebase-analytics:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\AndroidManifest.xml:37:11-82
+uses-permission#com.google.android.c2dm.permission.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:23:5-82
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:23:22-79
+permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:25:5-26:47
+	android:protectionLevel
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:26:9-44
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:25:17-71
+uses-permission#${applicationId}.permission.C2D_MESSAGE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:28:5-79
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:28:22-76
+receiver#com.google.firebase.iid.FirebaseInstanceIdReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:32:9-41:20
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:34:13-36
+	android:permission
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:35:13-73
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:33:13-78
+intent-filter#${applicationId}+com.google.android.c2dm.intent.RECEIVE+com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:36:13-40:29
+action#com.google.android.c2dm.intent.RECEIVE
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:37:17-81
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:37:25-78
+action#com.google.android.c2dm.intent.REGISTRATION
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:38:17-86
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:38:25-83
+category#${applicationId}
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:39:17-61
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:39:27-58
+receiver#com.google.firebase.iid.FirebaseInstanceIdInternalReceiver
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:45:9-47:40
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:47:13-37
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:46:13-86
+service#com.google.firebase.iid.FirebaseInstanceIdService
+ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:51:9-57:19
+	android:exported
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:53:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-iid:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\AndroidManifest.xml:52:13-77
+provider#com.google.firebase.provider.FirebaseInitProvider
+ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\fb42a6018275cbed786aff60385b94631b370238\output\AndroidManifest.xml:7:9-11:39
+	android:authorities
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\fb42a6018275cbed786aff60385b94631b370238\output\AndroidManifest.xml:8:13-72
+	android:exported
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\fb42a6018275cbed786aff60385b94631b370238\output\AndroidManifest.xml:10:13-37
+	android:initOrder
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\fb42a6018275cbed786aff60385b94631b370238\output\AndroidManifest.xml:11:13-36
+	android:name
+		ADDED from [com.google.firebase:firebase-common:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\fb42a6018275cbed786aff60385b94631b370238\output\AndroidManifest.xml:9:13-58
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\20300748b53dd900c1ef4cb8bfff7578f6db5ea7\output\AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\20300748b53dd900c1ef4cb8bfff7578f6db5ea7\output\AndroidManifest.xml:23:13-66
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:9.2.1] C:\Users\Reza Nur Rochmat\.android\build-cache\20300748b53dd900c1ef4cb8bfff7578f6db5ea7\output\AndroidManifest.xml:22:13-58

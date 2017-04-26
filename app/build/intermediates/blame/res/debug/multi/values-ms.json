@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "G:\\Work\\SimpleNotification\\app\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values-ms\\values-ms.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 105,
+                    "endColumn": 260,
+                    "endOffset": 361
+                },
+                "from": {
+                    "file": "C:\\Users\\Reza Nur Rochmat\\.android\\build-cache\\20300748b53dd900c1ef4cb8bfff7578f6db5ea7\\output\\res\\values-ms\\values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 330,
+                        "endColumn": 260,
+                        "endOffset": 586
+                    }
+                }
+            }
+        ]
+    }
+]

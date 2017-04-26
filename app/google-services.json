@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "365651458479",
+    "firebase_url": "https://pushnotification-ecb1b.firebaseio.com",
+    "project_id": "pushnotification-ecb1b",
+    "storage_bucket": "pushnotification-ecb1b.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:365651458479:android:55bee01d31b3097f",
+        "android_client_info": {
+          "package_name": "com.example.rezanurrochmat.simplenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "365651458479-ue3kemi81e3tsov979mnjhm23m470smb.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA2qDgw4JPJDwPKLhoe2v3IxWkp5yAMr8A"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reza Nur Rochmat\.android\build-cache\fb42a6018275cbed786aff60385b94631b370238\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="3627eacd7f7cafb5e8ae683992e7b2f9b7dcab1a">
+        <dex dex="G:\Work\SimpleNotification\app\build\intermediates\pre-dexed\debug\classes_84c6b9d9404589abee92e3ce87c328e200f806ca.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reza Nur Rochmat\.android\build-cache\09662825abe5147360cd36ca2ed8279777e52fa1\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="ac78f93fc89c497a65f9d9a352cd405996d2f65a">
+        <dex dex="G:\Work\SimpleNotification\app\build\intermediates\pre-dexed\debug\classes_70849c46d9fddb735bc70b7bda85999cf4626e50.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reza Nur Rochmat\.android\build-cache\0ccca17f179582188dca19d9c81499e59a6d888a\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="819c2c3a4fb135e085445d11131d069cf9c32b2a">
+        <dex dex="G:\Work\SimpleNotification\app\build\intermediates\pre-dexed\debug\classes_dfacc9b8a9ee94c54bc25803a23842d6706195e2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reza Nur Rochmat\.android\build-cache\20300748b53dd900c1ef4cb8bfff7578f6db5ea7\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6b896c1067633db41e9c10a3a5d0919c5c4cfc8c">
+        <dex dex="G:\Work\SimpleNotification\app\build\intermediates\pre-dexed\debug\classes_fee91036def8d2c0bca1d929a496e2e76005df60.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reza Nur Rochmat\.android\build-cache\16441d568f43ae99f426036f775cf497a0eab020\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="d41b5d21cc9dd7d210f0ae82ac509ba7f091d611">
+        <dex dex="G:\Work\SimpleNotification\app\build\intermediates\pre-dexed\debug\classes_be4ec1990fb32c7cacb6cda0a3fd3eae11ae9b27.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reza Nur Rochmat\.android\build-cache\046bcd1e3da87dbe90c60857a2e9216991f51468\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="5337354083e89ed67151859ab0b6b80935c60eaf">
+        <dex dex="G:\Work\SimpleNotification\app\build\intermediates\pre-dexed\debug\classes_47c1f12ef100938a55c7d9126ae0b8a4401ccaba.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\Reza Nur Rochmat\.android\build-cache\b0a8cffc4b5b4a12da1e73d41fb4b1768f6ebbf4\output\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.2"
+        sha1="6a0f2d219f82db499ac03d5a985c4eb3e83fc422">
+        <dex dex="G:\Work\SimpleNotification\app\build\intermediates\pre-dexed\debug\classes_cda5aa1df9e3078808808137a7522cdf5bcda324.jar" />
+    </item>
+
+</items>
